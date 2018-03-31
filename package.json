@@ -1,0 +1,19 @@
+{
+  "name": "mesobotamia",
+  "version": "1.0.0",
+  "description": "Esoteric wisdom from the Cradle of Civilization",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bunsushi/Mesobotamia.git"
+  },
+  "author": "Tegan Bunsu Ashby <mesobotamian@gmail.com> (https://bunsushi.github.io/)",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^5.0.1",
+    "twit": "^2.2.9"
+  }
+}
