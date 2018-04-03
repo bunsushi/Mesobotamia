@@ -16,6 +16,6 @@ var ziusudra = randomWisdom(sumerSays);
 
 console.log(ziusudra);
 
-// bot.post('statuses/update', { status: ziusudra }, function (err, data, response) {
-//     console.log(data)
-// });
+bot.post('statuses/update', { status: ziusudra }, function (err, data, response) {
+    console.log(data)
+});
